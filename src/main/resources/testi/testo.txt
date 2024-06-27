@@ -1,0 +1,48 @@
+#1 [traccia:babel, temporaneo, estrai:100, immagine:formica]
+{>100} questo è il primo paragrafo. {vuoto>2} sta una spada? 
+ {n}a terra che potresti. {nn} sei stato fortunato.
+
+#100 [tipo: statistiche]
+Sono una ragazza di 21 anni.
+{n}Imposta le statistiche. Potrai avere una statistica eccellente e due buone, le restati saranno mediocri.
+
+
+{n,nn} Fisico
+{n}è la preparazione atletica, la forza e la resistenza.
+
+
+{n,nn}Riflessi
+{n}È la rapidità nel agire e reagire
+
+
+{n,nn} Sapienza
+{n}Sono le conoscenze, soprattutto in mistica e botanica.
+
+{n,nn}Presenza 
+{n}È l’attenzione al mondo circostante, in cogliere i dettagli non sotto l’attenzione diretta.
+
+{n,nn}Fortuna
+{n}In alcuni paragrafi c’è una probabilità che avvenga qualcosa. Per ogni fortuna provi una volta in più.
+
+{nn, >4}Continua.
+
+#99 [] hh
+Phasellus id turpis dui. Suspendisse commodo faucibus mollis. Cras tempus, metus eu blandit ullamcorper, lacus dui auctor lacus, ac bibendum velit mi finibus massa. Vivamus malesuada, leo sed venenatis porttitor, nibh arcu tempus enim, tempor eleifend leo lorem at nulla. Integer nec commodo lorem. Pellentesque semper finibus nulla eu blandit. Morbi convallis quis purus ac volutpat.
+
+
+Sed pretium neque sed est accumsan facilisis. Nunc imperdiet velit ut purus accumsan ullamcorper. Sed rhoncus tellus magna, sed vestibulum leo congue quis. Nullam a molestie tortor. Suspendisse sodales, neque in facilisis faucibus, eros erat dapibus odio, ut ornare nibh lectus non tellus. Aenean suscipit leo ut elementum iaculis. Nam sit amet pharetra urna. Mauris hendrerit imperdiet sem at cursus. Etiam pretium diam sed ex venenatis volutpat.
+#2 [oggetto: spada, traccia:Chorazin, estrai: 9, immagine: formica]
+{analizza>3,spada>1} se clicchi con la spada vai al primo se mi analizzi vai al terzo . {>4} se ti pesa premere un bottone in più puoi andare solo al quarto. {} sei stato fortunato.
+#3 [tag:essestorta] 
+mi hai analizzato, bravo. {>2}torna al secondo. {>1}torna al primo Aliquam eu luctus turpis. Morbi sed tortor nec risus suscipit dictum. Pellentesque lacinia ligula ullamcorper tortor pellentesque, nec ultricies nulla elementum. Nam odio felis, condimentum ut lobortis eu, pharetra id orci. Mauris eros odio, semper ut ultricies et, laoreet in mi. Vivamus ligula neque, facilisis vel luctus nec, laoreet ut sapien. Fusce vitae sodales est, ut semper metus.
+
+#4 [vuoto-vuoto] 
+{>5} sei stato pigro, rimarrai qui per sempre
+
+#5 [temporaneo]
+ {>4} non mi ascolti? torna al quarto immediatamente. {>6}oppure puoi scappare qui.Aliquam eu luctus turpis. Morbi sed tortor nec risus suscipit dictum. Pellentesque lacinia ligula ullamcorper tortor pellentesque, nec ultricies nulla elementum. Nam odio felis, condimentum ut lobortis eu, pharetra id orci. Mauris eros odio, semper ut ultricies et, laoreet in mi. Vivamus ligula neque, facilisis vel luctus nec, laoreet ut sapien. Fusce vitae sodales est, ut semper metus.
+
+
+#6 [temporaneo] 
+{>indietro} hai trovato un passaggio, per il quarto paragrafo, che ti aspettavi?
+

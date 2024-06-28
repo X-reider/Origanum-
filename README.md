@@ -117,4 +117,4 @@ La lambda expression è stata utilizzata per ottenere determinati file all'inter
 
 ## 8. Informazioni aggiuntive
 
-L'avventura è stata caricata sul sito itch.io, per scaricare la versione più aggiornata del gioco nel momento in cui verranno apportate modifiche e con una trama più arricchita.
+L'avventura è stata caricata sul sito itch.io. Al momento la versione presente è 1.0.0, in futuro sarà possibile scaricare quella più aggiornata con nuove features ed una trama più ricca.

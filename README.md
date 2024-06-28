@@ -21,11 +21,12 @@ L'applicazione è stata realizzata dal gruppo di lavoro composto da:
 Origanum è un'avventura grafico/testuale, giocabile tramite intefaccia grafica basata su Java mediante l'utilizzo del framework Swing. 
 La suddetta avventura è suddivisa in paragrafi. L’input utente viene effettuato tramite pulsanti e le risposte del gioco vengono mostrate come output testuale.
 Il caso di studio è stato sviluppato come progetto Maven mediante l'utilizzo dell'IDE NetBeans.
+E' possibile avviare l'avventura dall'eseguibile .jar
 
 ## 2. Utilizzo dei File
 In questa sezione viene spiegato quali file sono stati utilizzati ed in che modo.
 Avremo un file denominato "testo.txt" al cui interno è presente la trama del gioco suddivisa in paragrafi. All'interno di questo ovviamente è possibile anche aggiungere altri paragrafi per arricchire la trama.
-
+Nel file "gamestatus.ser" verranno caricati i salvataggi.
 
 ## 3. Struttura algebrica
 Le strutture algebriche utilizzate sono : Hashmap e Hashset. 

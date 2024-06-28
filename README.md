@@ -11,8 +11,8 @@ L'applicazione è stata realizzata dal gruppo di lavoro composto da:
 1. [Introduzione](#1-Introduzione)
 2. [Utilizzo dei file](#2-utilizzo-dei-file)
 3. [Struttura algebrica](#3-struttura-algebrica)
-4. [SWING](#4-Swing)
-5. [Diagramma delle classi](#5-diagramma-delle-classi)
+4. [Diagramma delle classi](#4-diagramma-delle-classi)
+5. [SWING](#5-Swing)
 6. [Thread](#6-thread)
 7. [Lambda expressions](#7-lambda-expressions)
 8. [Informazioni aggiuntive](#8-informazioni-aggiuntive)
@@ -98,14 +98,15 @@ Le strutture algebriche utilizzate sono : Hashmap e Hashset.
 
 Nello specifco la struttura algebrica HashMap è stata utilizzata per gestire i paragrafi, gli oggetti, le immagini e le tracce audio.
 
-## 4. Swing
+
+## 4. Diagramma delle classi
+
+![ClassDiagram](img/ClassDiagram.jpg)
+
+## 5. Swing
 
 Per la creazione della Gui è stato fondamentale l'utilizzo del framework Swing per Java.
 Sono state utilizzate tutte le classi principali, come Jframe, JTextPane dove sarà presente la trama del gioco, JScrollPane, JLabel, Jpanel e Jbutton dove l'utente potrà selezionare i vari oggetti presenti nell'inventario.
-
-## 5. Diagramma delle classi
-
-
 
 ## 6. Thread
 

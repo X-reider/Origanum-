@@ -101,7 +101,7 @@ Nello specifco la struttura algebrica HashMap è stata utilizzata per gestire i 
 
 ## 4. Diagramma delle classi
 
-![ClassDiagram](img/ClassDiagram.jpg)
+
 
 ## 5. Swing
 

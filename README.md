@@ -105,7 +105,7 @@ Sono state utilizzate tutte le classi principali, come Jframe, JTextPane dove sa
 
 ## 5. Diagramma delle classi
 
-![class diagram](img/ClassDiagram.jpg)
+
 
 ## 6. Thread
 

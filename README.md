@@ -106,7 +106,7 @@ Nello specifco la struttura algebrica HashMap è stata utilizzata per gestire i 
 ## 5. Swing
 
 Per la creazione della Gui è stato fondamentale l'utilizzo del framework Swing per Java.
-Sono state utilizzate tutte le classi principali, come Jframe, JTextPane dove sarà presente la trama del gioco, JScrollPane, JLabel, Jpanel e Jbutton dove l'utente potrà selezionare i vari oggetti presenti nell'inventario.
+Sono state utilizzate tutte le compomnenti principali, come Jframe, JTextPane dove sarà presente la trama del gioco, JScrollPane, JLabel, Jpanel e Jbutton dove l'utente potrà selezionare i vari oggetti presenti nell'inventario.
 
 ## 6. Thread
 

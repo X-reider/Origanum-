@@ -25,7 +25,7 @@ Il caso di studio è stato sviluppato come progetto Maven mediante l'utilizzo de
 ## 2. Utilizzo dei File
 In questa sezione viene spiegato quali file sono stati utilizzati ed in che modo.
 Avremo un file denominato "testo.txt" al cui interno è presente la trama del gioco suddivisa in paragrafi. All'interno di questo ovviamente è possibile anche aggiungere altri paragrafi per arricchire la trama.
-E' possibile caricare da file "gamestatus.ser" una partita salvata precedentemente.
+
 
 ## 3. Struttura algebrica
 Le strutture algebriche utilizzate sono : Hashmap e Hashset. 
